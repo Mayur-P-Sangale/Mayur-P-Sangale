@@ -32,10 +32,7 @@
 ### Connect with Me:
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phaltankarvrushali70@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sangalem99@gmail.com)
 
-[linkedin]: https://www.linkedin.com/in/vrushaliphaltankar/
+[linkedin]: http://www.linkedin.com/in/mayur-sangale/
 
-### Visitor Count:
-
-![Visitor Count](https://profile-counter.glitch.me/phaltankarvrushali/count.svg)
