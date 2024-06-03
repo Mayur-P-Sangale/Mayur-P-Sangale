@@ -7,7 +7,7 @@
 
 👩‍💻 All my projects are available at https://github.com/Mayur-P-Sangale?tab=repositories
 
-💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, System Design, Programming\
+💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, Programming
 
 📫 How to reach me sangale.m@northeastern.edu
 
